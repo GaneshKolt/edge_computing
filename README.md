@@ -1,6 +1,6 @@
 # Getting Started...
 
-1. Clone the repository `git clone https://github.com/FarrandTom/self-checkout.git`
+1. Clone the repository `https://github.com/GaneshKolt/edge_computing.git`
 
 2. Create an appropriate virtual environment, using `backend_tf/environment.yml`. This can be achieved by running the command: `conda create --name self_checkout --file environment.yml`
 You will then need to pip install two packages within that environment. Therefore, after you activate the environment (e.g. `conda activate self_checkout`) run: 
@@ -11,7 +11,7 @@ You will then need to pip install two packages within that environment. Therefor
 
 4. To run the application front end `npm start`
 
-5. You should then be able to capture images of bananas, apples, and oranges which will register in the price UI. The initial inference usually takes longer than subsequent images, so bear that in mind.
+5. You should then be able to capture images of Toothpaste, Boost, Dark Fantasy of various sizes which will register in the price UI. The initial inference usually takes longer than subsequent images, so bear that in mind.
 
 ## Docker Build Instructions
 Follow the instructions below to build this docker container and run the app. Please have a look at the [Docker documentation](https://docs.docker.com/) for further details.
@@ -19,7 +19,7 @@ Follow the instructions below to build this docker container and run the app. Pl
 1. Clone the repository
 
 
-#### `git clone https://github.com/FarrandTom/self-checkout.git`
+#### `https://github.com/GaneshKolt/edge_computing.git`
 
 2. Navigate to the code repository
 
